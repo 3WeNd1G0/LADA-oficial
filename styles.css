@@ -1,0 +1,94 @@
+.m {
+    display: flex;
+    align-items: center;
+    gap: 300px;
+    background: rgba(128, 128, 128, 0.8);
+    backdrop-filter: blur(2px);
+    margin: -10px;
+    }
+.m nav {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin-top: 10px;
+
+}
+.logo {
+    display: flex;
+    margin-left: 70px;
+}
+a {
+    background-color: white;
+    border: 5px solid white;
+    border-radius: 10px;
+    color: black;
+    text-decoration: none;
+}
+body {
+    background-image: url("images/111.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-position: 2px 0;
+}
+.txt {
+    display: flex;
+    margin-top: 15px
+  }
+li {
+    font-size: 20px;
+    }
+ol {
+    width: 300px;
+    padding: 25px;
+    background: rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(2px);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    border-radius: 15px;
+    color: white;
+}
+
+.nn img {
+    display: flex;
+    width: 350px;
+ }
+ .nn p {
+    font-size: 15px;
+    color: white;
+    display: flex;
+ }
+.nn {
+    width: 350px;
+    padding: 25px;
+    background: rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(2px);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    border-radius: 15px;
+    color: white;
+}
+.car {
+    display: flex;
+    gap: 40px;
+}
+.tex {
+    background: rgba(192, 192, 192, 0.5);
+    backdrop-filter: blur(2px)
+    }
+form {  
+    width: 350px;
+    padding: 25px;
+    background: rgba(192, 192, 192, 0.5);
+    backdrop-filter: blur(2px);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    border-radius: 15px;
+    color: white;
+}
+.rtt {
+    width: 350px;
+    padding: 25px;
+    background: rgba(192, 192, 192, 0.5);
+    backdrop-filter: blur(2px);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    border-radius: 15px;
+    color: white;
+}
